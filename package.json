@@ -1,0 +1,7 @@
+{
+  "name": "elux-keyauth-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {}
+}
